@@ -333,7 +333,7 @@ const Projects = () => {
               <div className="absolute inset-0 flex items-center justify-center gap-4 opacity-0 group-hover:opacity-100 transition-all duration-500">
                 
                 <a
-                  href="https://hajar-portfolio.vercel.app/"
+                  href="/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-[#0096C7] rounded-xl text-white hover:bg-[#00B4D8] hover:scale-110 transition-all duration-300"
